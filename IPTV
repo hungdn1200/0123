@@ -184,7 +184,7 @@ https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Khác" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/03/1680295707805/070985ac5a2d_640_360.png", THP+
-http://live.thhp.vn/hls/thpplus/index.m3u8
+https://vips-livecdn.fptplay.net/sda/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Khác" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/thumbnail/3685.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-3600.m3u8" ,THVL1
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
