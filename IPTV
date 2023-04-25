@@ -138,7 +138,7 @@ https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vovtvhd" group-title="Khác" tvg-logo="https://static.mediacdn.vn/vovTV/mob_images/logo.png", VOVTV
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="" group-title="Khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/794px-Vtv5tnb_logo.svg.png", VTV5 Tây Nam Bộ
+#EXTINF:0 tvg-id="" group-title="Khác" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/24/17/1682331005849/4879f2f3eeb0_640_360.png", VTV5 Tây Nam Bộ
 https://livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="sctv6hd" group-title="Khác" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/07/01/13/1625121016367/0dc4f535839a_640_360.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-3600.m3u8", FIM360
