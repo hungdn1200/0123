@@ -11,7 +11,7 @@ udp://@225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 udp://@225.1.1.131:30120
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/jPC0DkgV/VTV6-logo-2026-final-svg.png",VTV6 (HD 8Mbps)
-udp://@225.1.2.246:30120
+udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
 udp://@225.1.2.96:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
